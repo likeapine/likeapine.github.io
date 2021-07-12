@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title:  Single Neuron Perceptron
+title:  사랑해용한
 date:   2021-01-25 13:32:20 -0600
 description: Single neuron perceptron that classifies elements learning quite quickly.
 img: posts/20210125/1.png
