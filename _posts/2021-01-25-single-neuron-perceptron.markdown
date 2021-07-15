@@ -18,7 +18,7 @@ My second hometown is Jeonju.
 
 I like cafes, and luckily there are many exotic cafes in Jeonju.
 
-SO I'll keep a picture of the cafe taken with a film camera.
+So I'll keep a picture of the cafe taken with a film camera.
 
 ### The first cafe. RL cafe
 
