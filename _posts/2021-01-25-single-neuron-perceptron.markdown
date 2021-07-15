@@ -26,3 +26,7 @@ So I'll keep a picture of the cafe taken with a film camera.
 
 <center><img src='./assets/img/posts/20210715/film_2.jpg'></center>
 
+
+
+address: 9-1, Myeongnyun 3-gil, Deokjin-gu, Jeonju-si, Jeollabuk-do, Republic of Korea
+
